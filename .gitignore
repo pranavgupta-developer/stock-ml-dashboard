@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+*.csv
+requirements-lock.txt
+test_fetcher.py
